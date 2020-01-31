@@ -1,0 +1,13 @@
+cats
+dogs
+koalas
+fish
+alpacas
+humans
+monkeys
+parrots
+sheep
+donkeys
+horses
+turtles
+cows
